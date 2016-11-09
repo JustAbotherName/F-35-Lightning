@@ -1,5 +1,5 @@
 #undef scroll
-#include "menu.h"
+#include "../../inc/ui/menuu.h"
 #include <QMenu>
 #include <QMenuBar>
 
